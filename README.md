@@ -14,3 +14,12 @@ This repository is very simple, consists of a single, sorted list of IUPAC names
 Each line in that file is a valid IUPAC names, as defined by [OPSIN](https://opsin.ch.cam.ac.uk/)
 being able to generate a [SMILES](https://en.wikipedia.org/wiki/Simplified_Molecular_Input_Line_Entry_System)
 string from it.
+
+## Adding new names
+
+The list is sort and contains only unique names. On GNU/Linux, the reference algorithm for this
+process is:
+
+```shell
+sort iupac-names.txt | uniq -i | tee tmp.txt | wc -l ; mv tmp.txt iupac-names.txt
+```
