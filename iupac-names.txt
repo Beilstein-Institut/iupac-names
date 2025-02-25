@@ -1,142 +1,273 @@
 10-undecenoate
+1,10-phenanthroline
 1,2,3,4-tetrahydronaphthalene
 1,2,3-triazole
+1,2,4-triazole
 1,2-dimethoxyethane
 1,3,5-triazine
+1,3,5-trimethoxybenzene
+1,3-benzoxazole
 1,3-butadiene
+1,3-dimethyluracil
+1,3-dioxane
 1,4-benzoquinone
+1,4-dimethylbenzene
+1,4-dioxane
+1,4-Naphthoquinone
 1-phenylethanol
 1-phenylpropanol
+1-(piperidin-1-yl)ethan-1-one
 2,2,2-trifluoroethanol
+2,5-di-tert-butylhydroquinone
 2,6-lutidine
 2-butanol
 2-butanone
 2-heptanone
+2-methoxybenzoic acid
 2-phenylpropanoic acid
 2-pyrrolidinone
+4-hydroxycoumarin
+4-nitrophenyl-methylphosphonate
+acetamide
 acetate
 acetic acid
 acetoacetate
 acetone
+acetone-d6
 acetonitrile
 acetophenone
+acetyl chloride
+acetylide
+acrylamide
 acrylate
+adamantan
+adenine
+adenosine
 aluminum
 aminoalcohol
+ammonium chloride
+aniline
+anthracene
+argon
 azepane
 azide
 benzaldehyde
 benzene
 benzenesulfinate
+benzimidazole
 benzoate
+benzo[c]phenanthrene
+Benzopyran
+benzoquinone
+benzothiophene
+benzotriazole
 benzyl alcohol
 biphenyl
+boronic acid
 bromide
 Butyllithium
+caffeine
+camphorsulfonic acid
 carbamate
 carbon
 carbonic acid
+chalcone
 chloride
+chlorine
 chlorobenzene
 chloroform
+chroman
+chromane
+chromate
+chromene
+chrysene
 cinnamaldehyde
 cinnamyl alcohol
 cis-decalin
 cobalt
 copper
+coumarin
 crotonaldehyde
 crotyl alcohol
 cyclobutadiene
 cyclobutane
 cyclohexane
+cyclohexane-1,3-dione
 cyclohexanol
 cyclohexanone
 cyclohexene
 cyclohexylamine
 cyclooctatetraene
 cyclopentadiene
+d-galactose
+d-Glucopyranose
+d-glucosamine
+d-glucose
 dichloromethane
 diethyl ether
+diethyl phosphite
+difluoroacetate
+difluoroacetic acid
 dihydrogen
+dimethylacetamide
 dimethyl sulfoxide
+dioxane
+diphenylethyne
+d-lactose
+d-leucine
+d-mannose
 d-threonine
+ethan
 ethane
 ethanol
 ethyl acetate
 ethyl acetoacetate
 ethylene
+ethylenediamine
 ferrocene
+flavanone
+formic acid
 furan
 furfural
 furfuryl alcohol
 geranial
 geraniol
 glucose
+glycolate
+guanine
+hexane
 hydrazoic acid
 hydride
 hydrogen peroxide
+hydroxide
 hydroxyamine
 ibuprofen
+imidazole
+imidazole-4-carboxylic acid
 inden
+indene
+indol
 iodide
 iodine
+iridium
 iron
 iron hydride
+isoflavone
 isopropanol
 isopropyl alcohol
 isopropylamine
 l-alanine
+l-arabinose
 l-asparagine
+laurate
 l-glutamine
+l-leucine
+l-mannopyranose
+l-phenylalanine
+l-proline
+l-rhamnose
+l-valine
+magnesium sulfate
 maleimide
+mandelate
+mandelic acid
+mannose
 methane
 methanol
 methoxide
+methoxybenzene
 methyl acrylate
+methyl alcohol
 methylene chloride
+methyl ether
+methyl iodide
+methylphosphonate
 methyl t-butyl ether
+methyl tert-butyl ether
 molecular hydrogen
 molecular oxygen
+m-xylene
+naphthalene
+n-butanol
+n-butyl acetate
 n-butylamine
 neral
 nerol
 n-hexane
 nickel
+nitrobenzene
 nitrogen
 n-pentane
 o-benzoquinone
+ornithine
+oxazole
 oxonium
 oxygen
 palladium
 p-Anisaldehyde
+pentaethylene glycol
+pentane
 perchlorate
+permanganate
+phenol
 phosphine
+phosphine oxide
 phosphine-oxide
+phosphite
+phosphonate
+Phosphorus
 piperidine
 polyethylene
+potassium
 potassium phosphate
+propanoic Acid
+propargyl alcohol
+propene
 Propiophenone
 pyran
+pyren
+pyrene
 pyridine
+pyridine-2-carboxaldehyde
+pyrrol
+pyrrole
 pyrrolidine
+quinoline
 ribose
+ruthenium
+silicon
 silver
 sodium
+sodium acetate
 sodium azide
+sodium hydroxide
 sodium pyruvate
 sodium sulfate
 styrene
+sulfur
 sulfuric acid
+tert-butyl hydroperoxide
+tetrafluoroborate
 tetrahydrofuran
+thioacetate
 thiophen
 thiophene
 thiophenol
+thymine
+titanium
+titanium dioxide
+Titanium oxide
 toluene
 tosylate
+tributyltin
 trichloroacetic acid
+triethylamine
 triflate
 triflic acid
 trifluoroacetate
+trifluoromethanesulfonic acid
 trimethylamine
+trioxane
+uracil
 vinyl ether
 water
