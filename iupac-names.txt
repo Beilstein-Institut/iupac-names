@@ -306,6 +306,7 @@
 1,3-benzoxazole
 1,3-bis(2-chloroethyl)-1-nitrosourea
 1,3-butadien
+1,3 butadiene
 1,3-butadiene
 1,3-butadiyne
 1,3-butanediol
@@ -697,6 +698,7 @@
 1-methyladenosine
 1-methylcytosine
 (1-methylethyl)benzene
+1-methylguanine
 1-methylguanosine
 1-Methylhistamine
 1-methylhistidine
@@ -933,6 +935,9 @@
 2,3-Dihydroxypropyl tetradecanoate
 2,3-dihydroxysuccinate
 2,3-Dimercapto-1-propanesulfonic acid
+2,3-dimercapto-1-propanol
+2,3-dimercaptopropane-1-sulfonic acid
+2,3-dimethoxy-1,4-naphthalenedione
 2,3-dimethoxy-5-methylhydroquinone
 2,3-dimethoxy-5-methyl-p-benzoquinone
 2,3-dimethylbenzoate
@@ -1020,6 +1025,7 @@
 2,4-tolylene diisocyanate
 2,5,8,11,14,17-hexaoxaoctadecane
 2,5-bis(hydroxymethyl)furan
+2,5-dicarboxyfuran
 2,5-dichloroaniline
 2,5-dichlorohydroquinone
 2,5-dichlorophenol
@@ -1127,6 +1133,7 @@
 2-amino-2-deoxy-d-galactose
 2-amino-2-deoxy-d-glucopyranose
 2-amino-2-deoxy-d-glucose
+2-amino-2-deoxy glucose
 2-amino-2-(hydroxymethyl)-1,3-propanediol
 2-amino-2-hydroxymethyl-propane-1,3-diol
 2-amino-2-hydroxymethylpropane-1,3-diol
@@ -1295,6 +1302,7 @@
 2'-Deoxycytidine 5'-triphosphate
 2-deoxy-d-glucopyranose
 2-deoxy-d-glucose
+2-deoxy-d-glucose-6-phosphate
 2-deoxy-d-ribono-1,4-lactone
 2-deoxy-d-ribose
 2-deoxy-d-ribose 5-phosphate
@@ -1404,6 +1412,7 @@
 2'-hydroxychalcone
 2-hydroxycinnamic acid
 2-hydroxycyclohexanone
+2-hydroxydodecanoic acid
 2-hydroxyethanaminium
 2-hydroxyethylamine
 2-hydroxyethyl disulfide
@@ -1486,6 +1495,7 @@
 2-isopropyl-5-methylphenol
 2-isopropylmalic acid
 2-isopropylphenol
+2-ketobutyrate
 2-ketobutyric acid
 2-ketoglutarate
 2-ketoglutaric acid
@@ -1615,6 +1625,7 @@
 2-methylpyridine
 2methylpyridine
 2-Methylserine
+2-(methylthio)benzothiazole
 2-methylthioethanol
 2-(methylthio)ethanol
 2-monooleoylglycerol
@@ -1725,6 +1736,7 @@
 2-phenylethanol
 2-phenylethyl acetate
 2-phenylethylamine
+2-phenylethylammonium
 (2-phenylethyl)benzene
 2-phenylglycine
 2-(phenylmethylene)octanal
@@ -1797,6 +1809,7 @@
 2-sec-butylphenol
 2-styrylquinoline
 2-sulfanylethanesulfonate
+2-tert-butyl-4-methoxyphenol
 2-tert-butylphenol
 2-tetradecenoic acid
 2-thiapropane
@@ -1923,6 +1936,7 @@
 3,5-dibromopyridine
 3,5-dichloroaniline
 3,5-dichlorocatechol
+3,5-dihydroxy-1,4-naphthoquinone
 3,5-dihydroxybenzaldehyde
 3,5-dihydroxybenzoic acid
 3,5-dihydroxybiphenyl
@@ -2302,6 +2316,7 @@
 3-phosphoserine
 3-picoline
 3-pyridinecarboxaldehyde
+3-pyridinecarboxamide
 3-pyridinecarboxylate
 3-pyridinecarboxylic acid
 3-pyrroline
@@ -2317,6 +2332,7 @@
 3 Xylene
 3-Xylene
 4-(2,4-dichlorophenoxy)butyric acid
+4-(2-aminoethyl)benzene-1,2-diol
 4-[2-(dimethylamino)ethyl]phenol
 4-(2-hydroxyethyl)-1-piperazine-ethanesulfonic acid
 4-(2-hydroxyethyl)-1-piperazineethane sulfonic acid
@@ -2326,6 +2342,7 @@
 4-(2-hydroxyethyl)phenol
 4-(2-propenyl)phenol
 4-(3,5-diphenylcyclohexyl)phenol
+4-(3-hydroxypropyl)-2-methoxyphenol
 4,4'-biphenol
 4,4'-bipyridine
 4,4'-bipyridyl
@@ -2351,6 +2368,7 @@
 4,5-dihydrofuran
 4,5-dihydroorotic acid
 4,5-dihydroxy-2,3-pentanedione
+4,5-dihydroxybenzoic acid
 4,5-dihydroxynaphthalene-2,7-disulfonic acid
 4,5-dimethylphenol
 4,5-dioxopentanoate
@@ -2422,6 +2440,7 @@
 4-butyrolactone
 4-carboxyaniline
 4-carboxybutanoate
+4-carboxyphenol
 4-carboxypyridine
 4-chloro-2-methylphenol
 (4-Chloro-2-methylphenoxy)acetic acid
@@ -2469,6 +2488,7 @@
 4-fluoroaniline
 4-fluorobenzoate
 4-fluorobenzoic acid
+4-fluoro-l-phenylalanine
 4-fluorophenol
 4-fluorophenylalanine
 (4-fluorophenyl)boronic acid
@@ -2617,6 +2637,7 @@
 4-methylquinoline
 4-methylsalicylate
 4-methylsalicylic acid
+4-(methylsulfanyl)-2-oxobutanoate
 4-methylthiazole
 4-(methylthio)phenol
 4-methylundecane
@@ -2730,8 +2751,10 @@
 5,10,15,20-tetraphenylporphyrin
 5,10-methenyltetrahydrofolate
 5,10-methylenetetrahydrofolate
+5,10-methylenetetrahydrofolic acid
 5-(1,2-dithiolan-3-yl)pentanamide
 5,12-naphthacenedione
+5,12-naphthacenequinone
 5,12-tetracenequinone
 5-(2,5-dimethylphenoxy)-2,2-dimethylpentanoic acid
 5-(2-aminoethyl)benzene-1,2,4-triol
@@ -2835,6 +2858,7 @@
 5-formyl-2-furoic acid
 5-formyl-5,6,7,8-tetrahydrofolic acid
 5-formylcytosine
+5-formyltetrahydrofolate
 5-formyluracil
 5-hexynoic acid
 5-hydroxy-1,4-naphthalenedione
@@ -2846,6 +2870,7 @@
 5-hydroxy-dl-tryptophan
 5-hydroxyindole-3-acetic acid
 5-hydroxy-l-tryptophan
+5-hydroxylysine
 5-hydroxymethyl-2-furaldehyde
 5-hydroxymethyl-3,4-dihydroxypiperidine
 5-hydroxymethylcytosine
@@ -2869,6 +2894,7 @@
 5-hydroxyuracil
 5-Indanol
 5-iodo-2'-deoxyuridine
+5-iododeoxyuridine
 5-iodouracil
 5-isopropyl-2-methylbicyclo[3.1.0]hex-2-ene
 5-isopropyl-2-methylphenol
@@ -3001,6 +3027,7 @@
 7,8-dihydroxycoumarin
 7-amino-4-methylcoumarin
 7-amino-4-(trifluoromethyl)coumarin
+7-aminocholesterol
 7-aminomethyl-7-deazaguanine
 7-chlorotryptophan
 7-cyano-7-deazaguanine
@@ -3100,6 +3127,7 @@
 9-phenanthrol
 9-tetradecenoate
 9-tetradecenoic acid
+9-xanthenone
 9 xanthone
 9-Xanthone
 abequose
@@ -3282,6 +3310,7 @@ allyl methyl disulfide
 allyl pyrophosphate
 allyl sulfide
 allyl-sulfide
+allylsulfide
 allylthiourea
 allyl trisulfide
 allysine
@@ -3294,6 +3323,7 @@ alpha-Farnesene
 alpha ketoglutarate
 alpha-ketoglutarate
 alpha-linolenic acid
+alpha-methylbenzylamine
 alpha-methylnaphthalene
 alpha-naphthol
 alpha-octene
@@ -3350,6 +3380,7 @@ aminomalonate
 aminomalonic acid
 aminomethane
 (aminomethyl)benzene
+(aminomethyl)phosphonic acid
 amino-phenyl-acetic acid
 aminophenylacetic acid
 aminophosphonate
@@ -3379,6 +3410,7 @@ ammonium hydroxide
 ammonium iodide
 ammoniumiodide
 ammonium iron(iii) citrate
+ammonium iron(ii) sulfate
 ammonium iron sulfate
 ammonium monohydrogen phosphate
 ammonium nitrate
@@ -3554,6 +3586,7 @@ benzene-1,4-diol
 benzeneacetaldehyde
 benzeneacetamide
 benzeneacetic acid
+benzeneacetonitrile
 benzeneamine
 benzeneboronic acid
 benzenecarbaldehyde
@@ -3577,6 +3610,7 @@ benzil
 benzilic acid
 benzimidazol
 benzimidazole
+benzimidazolide
 benziodoxole
 benzisoxazole
 benzo[7]annulene
@@ -3601,6 +3635,7 @@ benzodiazepine
 benzodioxine
 benzodioxole
 benzo[d]isothiazol-3-one
+benzo[d]pyridazine
 benzo[e]pyrene
 benzofuran
 benzo[ghi]fluoranthene
@@ -3696,6 +3731,7 @@ benzyl-ether
 benzylether
 benzylformamide
 benzylidene acetone
+benzylidene-acetone
 benzylideneacetone
 benzylideneacetophenone
 benzyl isothiocyanate
@@ -3724,6 +3760,7 @@ beta-d-glucose
 beta-d-ribofuranose
 Beta-Guanidinopropionic acid
 beta-lactose
+beta mercaptoethanol
 beta-mercaptoethanol
 beta naphthol
 beta-naphthol
@@ -4286,6 +4323,7 @@ coniferyl alcohol
 copper
 copper(0)
 copper chloride
+copper-chloride
 copper dichloride
 copper gluconate
 copper hydroxide
@@ -4308,6 +4346,7 @@ copper-sulfate
 copper sulfide
 copper-sulfide
 copper sulphide
+copper-sulphide
 coronate
 coronene
 corrin
@@ -4328,6 +4367,7 @@ cubane
 cumarin
 cumene
 cumene hydroperoxide
+cumene-hydroperoxide
 cumenehydroperoxide
 cuminaldehyde
 cuminic acid
@@ -4357,6 +4397,7 @@ cyanogen
 cyanuric acid
 cyanuric chloride
 Cyanuryl chloride
+cyclobuta-1,3-diene
 cyclobutadiene
 cyclobutane
 cyclobutane-1,1-dicarboxylate
@@ -4395,6 +4436,7 @@ cyclohexanol
 cyclohexanone
 cyclohexatriene
 cyclohexene
+Cyclohexenecarboxylic acid
 cyclohexyl acetate
 cyclohexylacetate
 cyclohexyl alcohol
@@ -4410,6 +4452,7 @@ cyclohexylisocyanide
 cyclohexyl ketone
 cyclohexylmethylamine
 cycloleucine
+cyclo(l-leucyl-l-leucyl)
 cyclononyne
 cycloocta-1,3,5,7-tetraene
 cyclooctatetraene
@@ -4487,6 +4530,7 @@ d-aspartate
 d-aspartic acid
 d-biotin
 d-boivinose
+d-carnitine
 d-citrulline
 d-cystein
 d-cysteinate
@@ -4510,6 +4554,7 @@ decanoic acid
 decyl alcohol
 decyl palmitate
 decyl sulfate
+decyltrimethylammonium
 decyltrimethylammonium bromide
 dehydroalanine
 dehydroascorbic acid
@@ -4566,6 +4611,7 @@ d-glucopyranose
 d-glucopyranuronate
 d-glucosamine
 d-glucosamine 6-phosphate
+d-glucosamine-6-phosphate
 d-glucose
 d-glucose 6-phosphate
 d-glucose-6-phosphate
@@ -4818,6 +4864,7 @@ dimethylfumarate
 dimethylglycine
 dimethyl hydrogen phosphite
 dimethyl ketone
+dimethylketone
 dimethyl maleate
 dimethylmaleate
 dimethylmaleic acid
@@ -4830,6 +4877,7 @@ dimethylperoxide
 dimethylphenylamine
 dimethylphenylphosphine
 dimethylphosphine
+dimethylphosphinic acid
 dimethyl phthalate
 dimethylphthalate
 dimethylpyruvic acid
@@ -4884,6 +4932,7 @@ diphenylbutadiyne
 diphenyl carbonate
 diphenylcarbonate
 diphenylcyclopropenone
+diphenyldiazene oxide
 diphenylethanedione
 diphenyl ether
 diphenyl-ether
@@ -4939,6 +4988,7 @@ disodium tartrate
 disodium tetraborate
 d-isoleucine
 disulfane
+disulfanide
 disulfate
 disulfite
 di-tert butyl dicarbonate
@@ -5089,7 +5139,7 @@ enanthic acid
 (e) p-coumaric acid
 epibromohydrin
 epichlorohydrin
-Epoxyethane
+epoxyethane
 epsilon caprolactam
 erbium
 ergoline
@@ -5113,6 +5163,7 @@ ethane-1,2-dial
 ethane-1,2-diamine
 ethane-1,2-diamine dihydrochloride
 ethane-1,2-diol
+(ethane-1,2-diyldinitrilo)tetraacetic acid
 ethane-1-sulfonate
 ethanedinitrile
 ethanenitrile
@@ -5171,6 +5222,7 @@ ethyl caprylate
 ethyl carbamate
 ethylcarbamate
 ethyl carbonate
+ethyl-carbonate
 ethylcarbonate
 ethyl carboxylate
 ethylcarboxylate
@@ -5240,6 +5292,7 @@ ethyl myristate
 ethyl octadecanoate
 ethyl octanoate
 ethyl oleate
+ethyl oxide
 ethyl palmitate
 ethylpalmitate
 ethyl p-aminobenzoate
@@ -5261,6 +5314,7 @@ ethylpyrazine
 ethyl sorbate
 ethyl stearate
 ethyl sulfide
+ethyl-sulfide
 ethylsulfonate
 ethyl thioether
 ethyltrimethylammonium
@@ -5371,6 +5425,7 @@ formonitrile oxide
 formylanthranilate
 formyl-methionine
 formylmethionine
+formylphosphonate
 francium
 fructofuranose
 fructopyranose
@@ -5441,6 +5496,7 @@ gamma-glutamyl-phosphate
 gamma-Glutamylvaline
 gamma hydroxybutyrate
 gamma-hydroxybutyric acid
+gamma-hydroxybutyrolactone
 gamma-linolenic acid
 Gamma valerolactone
 gamma-valerolactone
@@ -5746,6 +5802,7 @@ hexylisocyanate
 hippurate
 hippuric acid
 histamine
+histidinal
 histidinate
 histidine
 histidine methyl ester
@@ -5828,6 +5885,7 @@ hydrogen phosphorodithioate
 hydrogen phthalate
 hydrogen selenide
 hydrogenselenide
+hydrogen selenite
 hydrogen-selenite
 hydrogen succinate
 hydrogen sulfate
@@ -5914,6 +5972,7 @@ ibuprofen
 i-butanol
 icosane
 icosanoate
+icosanoic acid
 iditol
 idose
 idoxuridine
@@ -6201,10 +6260,12 @@ lactose phosphate
 l-alaninate
 l-alanine
 l-alanine amide
+l-alaninol
 l-alanyl-l-alanine
 l-alanyl-l-glutamine
 l-alloisoleucine
 l-allose
+l-allo-threonine
 l-allothreonine
 lanthanum
 lanthionine
@@ -6230,6 +6291,8 @@ lauroyl peroxide
 lauryl alcohol
 l-carnitine
 l-citrulline
+l-cysteate
+l-cysteic acid
 l-cystein
 l-cysteinate
 l-cysteine
@@ -6285,8 +6348,10 @@ l-glyceraldehyde
 l-glycero-d-manno-heptopyranose
 l-gulonic acid
 l-gulopyranose
+l-gulose
 l-guluronate
 l-guluronic acid
+l-histidinal
 l-histidine
 l-histidinium
 l-histidinol
@@ -6316,10 +6381,12 @@ lithium aluminum hydride
 lithium aluminumhydride
 lithium borate
 lithium bromide
+Lithium-bromide
 lithium carbonate
 lithium chloride
 lithium-chloride
 lithium citrate
+lithium ethanoate
 lithium hydride
 lithium hydroxide
 lithium nitrate
@@ -6409,11 +6476,13 @@ l-tyrosinamide
 l-tyrosinate
 l-tyrosine
 l-tyrosine methyl ester
+l-tyrosyl-l-phenylalanine
 luteolin
 lutetium
 lutidine
 l-valinate
 l-valine
+l-valyl-l-tyrosyl-l-valine
 l-xylofuranose
 l-xylose
 lycopene
@@ -6660,6 +6729,7 @@ methylenechloride
 methylene dichloride
 methylenediurea
 methylene glycol
+methyleneimine
 methylene oxide
 methylenesuccinic acid
 methyl ether
@@ -6771,6 +6841,7 @@ methyl selenium
 methylselenium
 methylselenocysteine
 methyl stearate
+methyl styryl ketone
 methyl sulfate
 methyl-sulfate
 methylsulfate
@@ -6819,6 +6890,7 @@ m-fluoroaniline
 m-fluorophenylalanine
 m-hydroxybenzaldehyde
 m-hydroxybiphenyl
+m-methoxyphenol
 m-methylbenzaldehyde
 m-nitrophenol
 m-nitrotoluene
@@ -6890,6 +6962,7 @@ myristoleic acid
 myristyl alcohol
 N1-methylguanosine
 N2-(2-carboxyethyl)arginine
+N2-acetyl-l-lysine
 N3-methylcytosine
 N6-benzyladenine
 N6-Methyl-2'-deoxyadenosine
@@ -6922,6 +6995,7 @@ Naphthalene-2-carbaldehyde
 naphthalene-2-carboxylate
 naphthalene-2-carboxylic acid
 naphthalene-2-sulfonate
+naphthalene-2-sulfonic acid
 naphthalin
 naphthofuran
 naringenin
@@ -6943,6 +7017,7 @@ n-butylamine
 n-butylbenzene
 n-butylformamide
 n-butyl isocyanate
+n-butylisocyanate
 n-Butyl isothiocyanate
 n-butyl oleate
 n-butyraldehyde
@@ -7109,6 +7184,7 @@ n-propylamine
 n-propylbenzene
 n-propyl bromide
 n-propylbromide
+n-propyl cyanide
 n-propyl gallate
 n-propylgallate
 n-tetracosane
@@ -7244,6 +7320,7 @@ orthophosphate
 orthophosphoric acid
 orthosilicate
 orthosilicic acid
+orthotellurate
 ortho xylene
 ortho-xylene
 osmium
@@ -7465,6 +7542,7 @@ perfluorodecalin
 perfluorodecane
 perfluorodecanoic acid
 perfluorodecanoic-acid
+perfluoroethane
 perfluoroheptane
 perfluoroheptanoic acid
 perfluorohexane
@@ -7510,11 +7588,13 @@ phenanthren
 phenanthren-3-ol
 phenanthren-4-ol
 phenanthren-9-amine
+phenanthren-9-ol
 phenanthrene
 phenanthrene-9,10-diol
 phenanthrene-9,10-dione
 phenanthridine
 phenanthro[3,4,5,6-bcdef]ovalene
+Phenanthro[3,4-c]phenanthrene
 phenanthroline
 phenazine
 phenazine-1,6-dicarboxylic acid
@@ -7587,6 +7667,7 @@ phenylethane
 phenylethene
 phenyl ether
 phenyl-ether
+phenylether
 phenylethyl alcohol
 phenylethylamine
 phenylethylene
@@ -7634,6 +7715,7 @@ phenylphosphoric acid
 phenylpropanoate
 phenylpyruvate
 phenylpyruvic acid
+phenyl salicylate
 phenylsulfamate
 Phenyl Sulfate
 phenyl sulfide
@@ -7770,6 +7852,7 @@ piperidine-2-carboxylic acid
 piperidine-3,4,5-triol
 piperidine-3-carboxamide
 piperidine-3-carboxylic acid
+piperidine 4-carboxylic acid
 piperidine-4-carboxylic acid
 piperidinium
 piperonyl aldehyde
@@ -7813,6 +7896,7 @@ p-nitrobenzyl alcohol
 p-nitrobenzyl bromide
 p- nitrophenol
 p-nitrophenol
+p-nitrophenol acetate
 p-nitrophenolate
 p-nitrophenyl acetate
 p-nitrophenylacetate
@@ -8044,6 +8128,7 @@ p-xylene
 pyran
 pyran-2-one
 pyran-4-one
+pyranium
 pyrazin
 pyrazinamide
 pyrazine
@@ -8082,17 +8167,20 @@ pyridine-2,4-dicarboxylate
 pyridine 2,4-dicarboxylic acid
 pyridine-2,4-dicarboxylic acid
 pyridine-2,5-dicarboxylate
+pyridine-2,5-dicarboxylic acid
 pyridine-2,6-dicarboxylate
 pyridine 2,6-dicarboxylic acid
 pyridine-2,6-dicarboxylic acid
 pyridine 2-aldehyde
 pyridine-2-aldehyde
+pyridine 2-carbaldehyde
 pyridine-2-carbaldehyde
 pyridine-2-carbonitrile
 pyridine-2-carboxaldehyde
 pyridine-2-carboxamide
 pyridine 2-carboxylate
 pyridine-2-carboxylate
+pyridine 2-carboxylic acid
 pyridine-2 carboxylic acid
 pyridine-2-carboxylic acid
 pyridine-2-thiol
@@ -8149,6 +8237,7 @@ pyrrole-2,5-dicarboxylic acid
 pyrrole 2-carbaldehyde
 pyrrole-2-carbaldehyde
 pyrrole-2-carboxaldehyde
+pyrrole 2-carboxylate
 pyrrole-2-carboxylate
 pyrrole 2-carboxylic acid
 pyrrole-2-carboxylic acid
@@ -8195,6 +8284,7 @@ quinolin-8-ol
 quinoline
 quinoline-2,6-diol
 quinoline-2-carboxylate
+quinoline 2-carboxylic acid
 quinoline-2-carboxylic acid
 quinoline-4-carboxylate
 quinoline-4-carboxylic acid
@@ -8215,6 +8305,7 @@ resorcinol
 resorcinol monomethyl ether
 resveratrol
 rhamnose
+rhenate
 rhenium
 rhodanine
 rhodinol
@@ -8544,6 +8635,7 @@ sulfanylacetic acid
 sulfate
 sulfinyl chloride
 sulfite
+sulfoacetaldehyde
 sulfolan
 sulfolane
 sulfonium
@@ -8552,6 +8644,7 @@ sulfonylchloride
 sulfonyl fluoride
 sulfonylfluoride
 sulfonylurea
+sulfopyruvate
 sulfosalicylic acid
 sulfur
 sulfur dioxide
@@ -8585,6 +8678,7 @@ sulphonium
 sulphur
 sulphur dioxide
 sulphuric acid
+sulphur monoxide
 sulphur trioxide
 sym-triazine
 syringaldehyde
@@ -8623,6 +8717,7 @@ terbium
 terephthalamide
 terephthalate
 terephthalic acid
+terephthalic-acid
 terpinen-4-ol
 terpinolene
 tert-butanol
@@ -8682,6 +8777,7 @@ tetracosane
 tetracosanoate
 tetracosanoic acid
 tetracosanol
+tetradec-1-ene
 tetradecafluorohexane
 tetradecanal
 tetradecane
@@ -8734,6 +8830,7 @@ tetramethylammoniumchloride
 tetramethylenediamine
 tetramethylene glycol
 tetramethylene oxide
+tetramethylene sulfide
 tetramethylene sulfone
 tetramethyl lead
 tetramethylstannane
@@ -8794,6 +8891,7 @@ thiochromane
 thiocyanate
 thiocyanic acid
 thiocysteine
+thiodiacetic acid
 thioethanolamine
 thiofuran
 thioglycerol
@@ -8830,6 +8928,7 @@ thioproline
 thioribose
 thiosalicylate
 thiosalicylic acid
+thioselenide
 thiosulfate
 thiosulfurous acid
 thiosulphate
@@ -8865,11 +8964,13 @@ tin dioxide
 tin disulfide
 tin disulphide
 tin hydride
+tin-hydride
 tin(ii) chloride
 tin(ii) chloride dihydrate
 tin(iv) oxide
 tin oxide
 tin-oxide
+tinoxide
 tin trihydride
 titanium
 titanium dioxide
@@ -9114,6 +9215,7 @@ tris(2,3-dibromopropyl)phosphate
 tris(2-aminoethyl)amine
 tris(2-butoxyethyl)phosphate
 tris(2-carboxyethyl)phosphine
+tris(2- carboxyethyl)phosphine
 tris(2-chloroethyl)phosphate
 trisiloxane
 tris-n-propylamine
@@ -9144,6 +9246,7 @@ Tungsten Disulphide
 tungsten hexachloride
 tungsten(iv) sulfide
 tungsten oxide
+tungsten-oxide
 tungsten(vi) chloride
 tyramine
 tyrosin
