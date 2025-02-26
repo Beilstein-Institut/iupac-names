@@ -327,16 +327,14 @@
 1,4-dioxan
 1,4 dioxane
 1,4-dioxane
-1,4 Dioxane
-1,4-Dioxane
 1,4-diphenyl-1,3-butadiene
 1,4-diphenyl-1,3-butadiyne
 1,4-Diphenylbenzene
 1,4-diphenylbutadiene
 1,4-diphenylbutadiyne
 1,4-dithian
-1,4-dithiane
 1,4 Dithiane
+1,4-dithiane
 1,4-naphthoquinone
 1-(4-nitrophenyl)ethanone
 1,4-phenylenediamine
@@ -399,8 +397,8 @@
 1-azabicyclo[2.2.2]octane
 1-azabicyclo[4.4.0]decane
 1-benzazepine
-1-benzofuran
 1 Benzofuran
+1-benzofuran
 1-benzopyran
 1-benzopyran-4-one
 1-benzothiophene
@@ -570,8 +568,8 @@
 1propanal
 1-propanamine
 1-propanol
-1-propene
 1 Propene
+1-propene
 1-propylamine
 1-propyne
 1-(p-tolyl)propan-1-one
@@ -752,7 +750,6 @@
 2,6-dinitrotoluene
 2,6-di-tert-butyl-4-methylphenol
 2,6-ditert-butyl-4-methylphenol
-2,6-Di-tert-butyl-4-methylphenol
 2,6-di-tert-butyl-p-cresol
 2,6 lutidine
 2,6-lutidine
@@ -966,7 +963,6 @@
 2-hydroxyethylhydrazine
 2-hydroxyethyl methacrylate
 2-hydroxyethylmethacrylate
-2-Hydroxyethyl methacrylate
 (2-hydroxyethyl)trimethylammonium chloride
 2-hydroxyfluorene
 2-hydroxyglutarate
@@ -1292,8 +1288,8 @@
 3,4-dihydroxymandelaldehyde
 3,4-dihydroxymandelic acid
 3,4-dihydroxyphenethylamine
-3,4-dihydroxyphenylacetaldehyde
 (3,4-Dihydroxyphenyl)acetaldehyde
+3,4-dihydroxyphenylacetaldehyde
 3,4-dihydroxyphenylacetic acid
 3,4-dihydroxyphenylalanine
 3,4-dihydroxyphenylglycolaldehyde
@@ -1677,7 +1673,6 @@
 4-chlorophenoxyacetic acid
 (4-chlorophenyl)acetate
 4-chlorophenylacetate
-(4-Chlorophenyl)acetate
 (4-chlorophenyl)acetic acid
 4-chlorophenylacetic acid
 (4-chlorophenyl)acetonitrile
@@ -1750,7 +1745,6 @@
 (4-hydroxyphenyl)acetate
 4-hydroxyphenyl acetate
 4-hydroxyphenylacetate
-4-Hydroxyphenyl acetate
 (4-hydroxyphenyl)acetic acid
 4-hydroxyphenylacetic acid
 4-hydroxyphenylacetonitrile
@@ -1781,7 +1775,6 @@
 4-methoxyphenol
 (4-methoxyphenyl)acetic acid
 4-methoxyphenylacetic acid
-(4-Methoxyphenyl)acetic acid
 4-methyl-1-isopropyl-3-cyclohexen-1-ol
 4-methyl-1 pentanol
 4-methyl-1-pentanol
@@ -1973,9 +1966,6 @@
 5-(hydroxymethyl)furan-2-carbaldehyde
 5-hydroxymethyl furfural
 5-hydroxymethylfurfural
-5-Hydroxymethyl furfural
-5-Hydroxymethylfurfural
-5-Hydroxymethyl Furfural
 5-(hydroxymethyl)furfural
 5-hydroxymethyluracil
 5-hydroxypentanoate
@@ -2089,8 +2079,8 @@
 7-oxocholesterol
 7-oxoheptanoic acid
 7-tetradecenoic acid
-8-anilino-1-naphthalenesulfonic acid
 8-Anilino-1-naphthalene sulfonic acid
+8-anilino-1-naphthalenesulfonic acid
 8-anilinonaphthalene-1-sulfonic acid
 [8]annulene
 8-azaguanine
@@ -2159,10 +2149,6 @@ acetanilide
 acetate
 acetic acid
 acetic-acid
-acetic Acid
-Acetic-acid
-Acetic Acid
-Acetic-Acid
 acetic acid anhydride
 acetic acid ethyl ester
 acetic acid hydrazide
@@ -2183,7 +2169,6 @@ acetone cyanohydrin
 acetone-d6
 acetone oxime
 acetoneoxime
-Acetone oxime
 acetonitrile
 acetonylacetone
 acetonyl chloride
@@ -2196,7 +2181,6 @@ acetylacetone
 acetylalanine
 acetyl chloride
 acetylchloride
-Acetyl chloride
 acetylcholine
 acetylcholine chloride
 acetylcysteine
@@ -2251,7 +2235,6 @@ adenosylhomocysteine
 adenosyl-l-homocysteine
 adipic acid
 adipic-acid
-Adipic acid
 adrenaline
 agmatine
 alanin
@@ -2276,14 +2259,10 @@ allylacetate
 allylacetic acid
 allyl alcohol
 allylalcohol
-allyl Alcohol
-Allylalcohol
-Allyl Alcohol
 allyl chloride
 allyl disulfide
 allyl isothiocyanate
 allyl-isothiocyanate
-Allyl isothiocyanate
 allyl mercaptan
 allyl methyl disulfide
 allyl sulfide
@@ -2318,7 +2297,6 @@ aluminum hydride
 aluminumhydride
 aluminum hydroxide
 aluminum-hydroxide
-Aluminum hydroxide
 aluminum oxide
 aluminum oxide hydroxide
 aluminum stearate
@@ -2332,9 +2310,6 @@ aminoacetic acid
 amino alcohol
 amino-alcohol
 aminoalcohol
-Amino alcohol
-Aminoalcohol
-Amino Alcohol
 aminobenzene
 aminocyclopropane
 aminomalonate
@@ -2350,13 +2325,11 @@ aminourea
 ammonia
 ammonia water
 ammonia-water
-Ammonia water
 ammonium
 ammonium acetate
 ammonium chloride
 ammonium-chloride
 ammoniumchloride
-Ammonium chloride
 ammonium dihydrogen orthophosphate
 ammonium dihydrogen phosphate
 ammonium dihydrophosphate
@@ -2364,7 +2337,6 @@ ammonium ferric citrate
 ammonium fluoride
 ammonium formate
 ammonium-formate
-Ammonium formate
 ammonium hydrogen citrate
 ammonium hydroxide
 ammonium iodide
@@ -2372,7 +2344,6 @@ ammoniumiodide
 ammonium iron sulfate
 ammonium nitrate
 ammonium-nitrate
-Ammonium nitrate
 ammonium phosphate
 ammonium sulfamate
 ammonium sulfate
@@ -2531,7 +2502,6 @@ benzo[a]fluoranthene
 benzo[a]fluorene
 benzo(a)pyrene
 benzo[a]pyrene
-Benzo(a)pyrene
 benzoate
 benzo[b]fluoranthene
 benzo[b]fluorene
@@ -2598,7 +2568,6 @@ benzoylbenzoate
 benzoyl chloride
 benzoyl-chloride
 benzoylchloride
-Benzoyl chloride
 benzoyl cyanide
 benzoylformate
 benzoylformic acid
@@ -2609,9 +2578,6 @@ benzyl acetate
 benzyl alcohol
 benzyl-alcohol
 benzylalcohol
-Benzyl alcohol
-Benzyl-alcohol
-Benzyl Alcohol
 benzylamine
 benzylbenzene
 benzyl benzoate
@@ -2619,30 +2585,25 @@ benzylbenzoate
 benzyl bromide
 benzyl-bromide
 benzylbromide
-Benzyl bromide
 benzyl chloride
 benzylchloride
-Benzyl chloride
 benzyl cyanide
 benzylcysteine
 benzyl disulfide
 benzyl ether
 benzyl-ether
 benzylether
-Benzyl ether
 benzylformamide
 benzylidene acetone
 benzylideneacetone
 benzylideneacetophenone
 benzyl isothiocyanate
 benzyl-isothiocyanate
-Benzyl isothiocyanate
 benzyl methyl ketone
 benzyloxycarbonylglycine
 benzylparaben
 benzyl thiocyanate
 benzylthiocyanate
-Benzyl thiocyanate
 benzyne
 beryllium
 beryllium fluoride
@@ -2674,7 +2635,6 @@ bis(2-chloroethyl)methylamine
 bis(2-chloroethyl) sulfide
 bis(2-ethylhexyl) phthalate
 bis(2-ethylhexyl)phthalate
-Bis(2-ethylhexyl) Phthalate
 bis(3-aminopropyl)amine
 Bis(4-chlorophenyl)methane
 bismuth
@@ -2703,14 +2663,11 @@ boron hydride
 boronic acid
 boronic-acid
 boronicacid
-boronic Acid
 Boron monoxide
 boron oxide
 boron-oxide
-Boron oxide
 boron trifluoride
 borontrifluoride
-Boron trifluoride
 boroxin
 boroxine
 bromane
@@ -2799,8 +2756,6 @@ butyl isocyanate
 butyl isothiocyanate
 butyl lithium
 butyllithium
-Butyl lithium
-Butyllithium
 butyl phosphate
 butyl phthalate
 butylstannane
@@ -2811,7 +2766,6 @@ butyramide
 butyrate
 butyric acid
 butyric-acid
-Butyric acid
 butyrolactam
 butyrolactone
 butyronitrile
@@ -2829,14 +2783,12 @@ caesium hydroxide
 caffeate
 caffeic acid
 caffeic-acid
-Caffeic acid
 caffeic acid ethyl ester
 caffeic acid phenethyl ester
 caffeine
 calcium
 calcium acetate
 calcium-acetate
-Calcium acetate
 Calcium acetate monohydrate
 calcium arsenate
 calcium carbonate
@@ -2850,7 +2802,6 @@ calcium hydrogen phosphate
 calcium hydroxide
 calcium hypochlorite
 calcium-hypochlorite
-Calcium hypochlorite
 calcium nitrate
 calcium orthophosphate
 calcium oxalate
@@ -2858,9 +2809,6 @@ calcium oxide
 calcium pantothenate
 calcium phosphate
 calcium-phosphate
-Calcium phosphate
-Calcium-phosphate
-Calcium Phosphate
 calcium pyrophosphate
 calcium sulfate
 calcium sulfate dihydrate
@@ -2897,10 +2845,8 @@ carbon
 carbon dioxide
 carbon-dioxide
 carbondioxide
-Carbon dioxide
 carbon disulfide
 carbon-disulfide
-Carbon disulfide
 carbon disulphide
 carbonic acid
 carbon monooxide
@@ -2911,10 +2857,8 @@ carbon oxide
 carbon sulfide
 carbon tetrabromide
 carbontetrabromide
-Carbon tetrabromide
 carbon tetrachloride
 carbontetrachloride
-Carbon tetrachloride
 carbon tetrafluoride
 carbonyl chloride
 carbonyl cyanide m-chlorophenyl hydrazone
@@ -2934,7 +2878,6 @@ ceric oxide
 cerium
 cerium chloride
 Ceriumchloride
-Cerium Chloride
 cerium dioxide
 cerium trichloride
 cerotic acid
@@ -2955,8 +2898,6 @@ cetyl-trimethylammonium bromide
 cetyltrimethyl ammonium bromide
 cetyltrimethylammonium bromide
 cetyltrimethylammoniumbromide
-Cetyltrimethylammonium bromide
-Cetyltrimethyl Ammonium Bromide
 cetyltrimethylammonium chloride
 chalcone
 chavicol
@@ -2979,7 +2920,6 @@ chloroacetone
 chloroacetonitrile
 chloroacetyl chloride
 chloroacetylchloride
-Chloroacetyl chloride
 chlorobenzene
 chlorocyclohexane
 chlorodifluoromethane
@@ -3013,7 +2953,6 @@ choline
 choline acetate
 choline chloride
 Choline-chloride
-Choline Chloride
 choline hydrochloride
 choline phosphate
 choline sulfate
@@ -3076,7 +3015,6 @@ citral
 citrate
 citric acid
 citric-acid
-Citric acid
 citric acid monohydrate
 citric acid trisodium salt
 citronellal
@@ -3111,12 +3049,8 @@ copper hydroxide
 copper monosulfide
 copper oxide
 copper-oxide
-Copper oxide
 copper sulfate
 copper-sulfate
-Copper sulfate
-Copper-sulfate
-Copper Sulfate
 copper sulfide
 coronene
 corrin
@@ -3195,7 +3129,6 @@ cyclohexatriene
 cyclohexene
 cyclohexyl acetate
 cyclohexylacetate
-Cyclohexyl Acetate
 cyclohexyl alcohol
 cyclohexylamine
 cyclohexylammonium
@@ -3297,7 +3230,6 @@ deoxyuridine
 deoxyuridine monophosphate
 d-erythritol 4-phosphate
 d-erythritol-4-phosphate
-d-erythritol 4-Phosphate
 d-erythrose
 d-erythrose 4-phosphate
 d-erythrose-4-phosphate
@@ -3351,7 +3283,6 @@ diammonium citrate
 diammonium hydrogen citrate
 diammonium hydrogen phosphate
 diammonium hydrogenphosphate
-Diammonium hydrogen phosphate
 diammonium phosphate
 diamorphine
 diarsenide
@@ -3418,8 +3349,6 @@ diethylamine
 diethyl dicarbonate
 diethylene glycol
 diethyleneglycol
-Diethylene glycol
-Diethyleneglycol
 diethylene glycol diethyl ether
 diethylene glycol dimethyl ether
 diethylene glycol dimethylether
@@ -3429,25 +3358,18 @@ diethyl  ether
 diethyl ether
 diethyl-ether
 diethylether
-Diethyl ether
-Diethylether
-Diethyl Ether
 diethyl ketone
 diethyl maleate
 diethylmaleate
-Diethyl maleate
 diethylperoxide
 diethylphosphate
 diethyl phosphite
 diethylphosphite
-Diethyl phosphite
 diethyl phosphonate
 diethylphosphonate
-Diethyl phosphonate
 diethylphosphoric acid
 diethyl phthalate
 diethylphthalate
-Diethyl phthalate
 diethyl pyrocarbonate
 diethylpyrocarbonate
 diethylstilbestrol
@@ -3455,8 +3377,6 @@ diethyl sulfate
 diethyl sulfide
 diethyl zinc
 diethylzinc
-Diethyl zinc
-Diethylzinc
 diferuloylmethane
 difluorine
 difluoroacetate
@@ -3512,58 +3432,44 @@ dimethylbutylamine
 dimethylcarbamoyl chloride
 dimethyl carbonate
 dimethylcarbonate
-Dimethyl carbonate
 dimethyl citraconate
 dimethylcyclohexylamine
 dimethyl disulfide
 dimethyldisulfide
-Dimethyl disulfide
 dimethyl disulphide
 dimethyl ditelluride
 dimethyldithiocarbamate
 dimethyl ether
 dimethylether
-Dimethyl ether
 dimethylformamide
 dimethylformamide dimethyl acetal
 dimethylformamide dimethylacetal
 dimethylformamide- dimethylacetal
 dimethyl fumarate
 dimethylfumarate
-Dimethyl fumarate
 dimethylglycine
 dimethyl ketone
 dimethyl maleate
 dimethylmaleate
-Dimethyl maleate
 dimethyl mercury
 dimethylmercury
-Dimethyl mercury
 dimethylphenylphosphine
 Dimethylphosphine
 dimethyl phthalate
 dimethylphthalate
-Dimethyl phthalate
 dimethyl selenide
 dimethylselenide
 dimethyl sulfate
 dimethylsulfate
-Dimethyl sulfate
-Dimethylsulfate
 dimethyl sulfide
 dimethyl-sulfide
 dimethylsulfide
-Dimethyl sulfide
 dimethyl sulfone
 dimethyl-sulfone
 dimethylsulfone
-Dimethyl sulfone
 dimethyl sulfoxide
 dimethyl-sulfoxide
 dimethylsulfoxide
-Dimethyl sulfoxide
-Dimethylsulfoxide
-Dimethyl Sulfoxide
 dimethyl sulphate
 dimethyl sulphide
 dimethyl telluride
@@ -3587,16 +3493,13 @@ diphenylacetylene
 diphenylamine
 diphenyl carbonate
 diphenylcarbonate
-Diphenyl carbonate
 diphenylcyclopropenone
 diphenylethanedione
 diphenyl ether
 diphenylether
-Diphenyl ether
 diphenylethyne
 diphenyl ketone
 diphenylketone
-Diphenyl ketone
 diphenylmethane
 diphenyl methane diisocyanate
 diphenylmethane diisocyanate
@@ -3626,7 +3529,6 @@ disiloxane
 disodium edetate
 disodium hydrogen phosphate
 disodium hydrogenphosphate
-Disodium hydrogen phosphate
 disodium monohydrogen phosphate
 disodium phosphate
 disodium selenide
@@ -3640,9 +3542,6 @@ di-tert-butyl dicarbonate
 di-tert-butyl-dicarbonate
 di-tert-butyldicarbonate
 ditert-butyl dicarbonate
-Di-tert-butyl dicarbonate
-Di-tert-butyl-dicarbonate
-Ditert-butyl dicarbonate
 dithianon
 dithiocarbamic acid
 dithioerythritol
@@ -3695,7 +3594,6 @@ dodecylhydrogensulfate
 dodecylphosphocholine
 dodecyl sulfate
 dodecylsulfate
-Dodecyl sulfate
 dodecyltrimethylammonium
 dodecyltrimethylammonium bromide
 dopa
@@ -3798,12 +3696,8 @@ ethyl  acetate
 ethyl acetate
 ethyl-acetate
 ethylacetate
-ethyl Acetate
-Ethylacetate
-Ethyl Acetate
 ethyl acetoacetate
 ethylacetoacetate
-Ethyl acetoacetate
 ethyl acrylate
 ethylacrylate
 ethyl alcohol
@@ -3814,12 +3708,10 @@ ethylammonium nitrate
 ethylbenzene
 ethyl bromide
 ethylbromide
-Ethyl bromide
 ethyl butyrylacetate
 ethyl caprylate
 ethyl carbamate
 ethylcarbamate
-Ethyl carbamate
 ethyl carbonate
 ethylcarbonate
 ethyl carboxylate
@@ -3838,11 +3730,9 @@ ethylene dichloride
 ethylene dimethacrylate
 ethylene glycol
 ethyleneglycol
-Ethylene glycol
 ethylene glycol butyl ether
 ethylene glycol dimethacrylate
 ethyleneglycol dimethacrylate
-Ethylene glycol dimethacrylate
 ethylene glycol dimethyl ether
 ethylene glycol methacrylate
 ethylene glycol monobutyl ether
@@ -3855,7 +3745,6 @@ ethylenimine
 ethyl ethanoate
 ethyl ether
 ethylether
-Ethyl ether
 ethyl formate
 ethylformate
 ethyl glyoxylate
@@ -3900,7 +3789,6 @@ farnesol
 farnesylacetone
 farnesyl diphosphate
 farnesyldiphosphate
-Farnesyl diphosphate
 farnesyl pyrophosphate
 felbinac
 ferric ammonium citrate
@@ -3914,8 +3802,6 @@ ferricyanide
 ferrocene
 ferrocene carboxylic acid
 ferrocenecarboxylic acid
-Ferrocene carboxylic acid
-Ferrocenecarboxylic acid
 ferrocyanide
 ferrous ammonium sulfate
 ferrous ammonium sulfate hexahydrate
@@ -3929,7 +3815,6 @@ ferulaldehyde
 ferulate
 ferulic acid
 ferulic-acid
-Ferulic acid
 flavan
 flavanone
 flavon
@@ -3973,7 +3858,6 @@ formanilide
 formate
 formic acid
 formic-acid
-formic Acid
 formic anhydride
 formimidamide
 formiminoglycine
@@ -3988,7 +3872,6 @@ fructopyranose
 fructose
 fructose 6-phosphate
 fructose-6-phosphate
-Fructose 6-phosphate
 fructose 6- phosphate
 fuconate
 fucopyranose
@@ -4033,11 +3916,9 @@ galacturonic acid
 gallate
 gallic acid
 gallic-acid
-gallic Acid
 gallium
-gamma-aminobutyric acid
 Gamma Aminobutyric Acid
-Gamma-Aminobutyric Acid
+gamma-aminobutyric acid
 gamma-butyrolactone
 gamma-carotene
 gamma-glutamylcysteine
@@ -4098,7 +3979,6 @@ glyceraldehyde
 glyceraldehyde 3 phosphate
 glyceraldehyde 3-phosphate
 glyceraldehyde-3-phosphate
-Glyceraldehyde 3-phosphate
 glycerate
 glyceric acid
 glycerin
@@ -4124,7 +4004,6 @@ glycolamide
 glycolate
 glycolic acid
 glycolic-acid
-glycolic Acid
 glycylalanine
 glycylglycine
 Glycyl-l-phenylalanine
@@ -4185,7 +4064,6 @@ heptadecanoate
 heptadecanoic acid
 heptaethylene glycol
 heptaethyleneglycol
-Heptaethylene Glycol
 heptafluorobutyric acid
 heptalene
 heptan
@@ -4269,7 +4147,6 @@ histidine
 histidine methyl ester
 histidine methylester
 histidine-methylester
-histidine Methyl Ester
 holmium
 homoalanine
 homocysteine
@@ -4314,16 +4191,13 @@ hydrogen azide
 hydrogen bromide
 hydrogen carbonate
 hydrogencarbonate
-Hydrogen carbonate
 hydrogen chloride
 hydrogen chromate
 hydrogen citrate
 hydrogen cyanide
 hydrogen-cyanide
-Hydrogen cyanide
 hydrogen fluoride
 hydrogenfluoride
-Hydrogen fluoride
 hydrogen hydroxide
 hydrogen iodide
 hydrogen maleate
@@ -4331,11 +4205,8 @@ hydrogen oxalate
 hydrogen peroxide
 hydrogen-peroxide
 hydrogenperoxide
-Hydrogen peroxide
-Hydrogen-Peroxide
 hydrogen phosphate
 hydrogenphosphate
-Hydrogen Phosphate
 hydrogen phosphonate
 hydrogenphosphonate
 hydrogen phosphorodithioate
@@ -4346,10 +4217,8 @@ hydrogen-selenite
 hydrogen succinate
 hydrogen sulfate
 hydrogensulfate
-Hydrogen Sulfate
 hydrogen sulfide
 hydrogensulfide
-Hydrogen sulfide
 hydrogen sulfite
 hydrogen telluride
 hydroiodic acid
@@ -4376,7 +4245,6 @@ hydroxycyclopentane
 (hydroxyethyl)methacrylate
 hydroxyethyl methacrylate
 hydroxyethylmethacrylate
-Hydroxyethyl methacrylate
 hydroxyisoleucine
 hydroxylamin
 hydroxylamine
@@ -4474,7 +4342,6 @@ indole-3-butyric acid
 indole-3-carbaldehyde
 indole 3-carboxaldehyde
 indole-3-carboxaldehyde
-Indole 3-Carboxaldehyde
 indole-3-carboxylate
 indole-3-carboxylic acid
 indole-3-pyruvate
@@ -4516,12 +4383,9 @@ iron arsenic sulfide
 iron hydride
 iron oxide
 iron-oxide
-Iron oxide
-Iron-oxide
 iron sulfide
 iron sulfur
 iron-sulfur
-Iron sulfur
 iron trichloride
 iron trioxide
 isatin
@@ -4529,7 +4393,6 @@ isethionate
 isoamyl acetate
 isoamyl alcohol
 isoamylalcohol
-Isoamyl alcohol
 isoamyl formate
 isoamyl nitrite
 isobenzofuran
@@ -4603,7 +4466,6 @@ isopropenyllithium
 isopropylacetate
 isopropyl alcohol
 isopropylalcohol
-Isopropyl alcohol
 isopropylamine
 isopropylbenzene
 isopropylethylene
@@ -4643,8 +4505,6 @@ lactaldehyde
 lactate
 lactic acid
 lactic-acid
-Lactic acid
-Lactic-Acid
 lactic acid sodium salt
 lactosamine
 lactose
@@ -4688,8 +4548,6 @@ lead hydride
 lead nitrate
 lead oxide
 lead-oxide
-Lead oxide
-Lead-oxide
 lead tetraacetate
 lepidine
 l-erythrose
@@ -4738,7 +4596,6 @@ lithium
 lithium acetate
 lithium aluminum hydride
 lithium aluminumhydride
-Lithium aluminum hydride
 lithium borate
 lithium bromide
 lithium carbonate
@@ -4774,9 +4631,8 @@ l-ornithinate
 l-ornithine
 l -phenylalaninate
 l-phenylalaninate
-l-phenylalanine
 l -Phenylalanine
-l-Phenylalanine
+l-phenylalanine
 l-phenylalanineamide
 l-phenylalanyl-l-alanine
 l-phenylalanyl l-phenylalanine
@@ -4798,8 +4654,8 @@ l-serine
 l-sorbofuranose
 l-sorbopyranose
 l-sorbose
-l-tartaric acid
 L(+)-tartaric acid
+l-tartaric acid
 l-tartrate
 l-theanine
 l-thioproline
@@ -4846,11 +4702,9 @@ maleamic acid
 maleate
 maleic acid
 maleic-acid
-Maleic acid
 maleic acid anhydride
 maleic anhydride
 maleic-anhydride
-Maleic anhydride
 maleimide
 malic acid
 malonaldehyde
@@ -4872,7 +4726,6 @@ manganese(ii)
 mannitol
 manno-heptulose
 mannoheptulose
-manno-Heptulose
 mannonate
 mannopyranose
 mannosamine
@@ -4961,12 +4814,10 @@ methyl 4-hydroxy-3-methoxybenzoate
 methyl 4-hydroxybenzoate
 methyl acetate
 methylacetate
-methyl Acetate
 Methyl- acetone
 Methyl-acetone
 methyl acrylate
 methylacrylate
-methyl Acrylate
 methylal
 methyl alcohol
 methylamine
@@ -4979,8 +4830,6 @@ methylaspartic acid
 methylbenzene
 methyl benzoate
 methylbenzoate
-methyl Benzoate
-Methylbenzoate
 methyl benzoylformate
 methyl benzyl ketone
 methyl bromide
@@ -4991,15 +4840,12 @@ methyl caproate
 methyl carbamate
 methyl-carbamate
 methylcarbamate
-Methyl Carbamate
 methyl carbonate
 methylcarbonate
 methyl chloride
 Methylchloride
-Methyl Chloride
 methyl cinnamate
 methylcinnamate
-Methyl cinnamate
 methyl cyanide
 methylcyanide
 methyl cyanoacetate
@@ -5011,7 +4857,6 @@ methylenebis(phosphonic acid)
 methylene bromide
 methylene chloride
 methylenechloride
-Methylene chloride
 methylene dichloride
 methylenediurea
 methylene glycol
@@ -5019,27 +4864,22 @@ methylene oxide
 methyl ether
 methyl-ether
 methylether
-Methyl ether
 methylethylene
 methyl ethyl ketone
 methylethyl ketone
-Methyl ethyl ketone
 methyl ferulate
 methylformamide
 methyl formate
 methylformate
-Methyl formate
 methylglyoxal
 methyl hexadecanoate
 methylhexadecanoate
-Methyl hexadecanoate
-methylhexanoate
 Methyl hexanoate
+methylhexanoate
 methyl hydrogen sulfate
 methylindole-3-carboxylate
 methyl iodide
 methyliodide
-Methyl iodide
 methyl isobutyl ketone
 methylisobutyl ketone
 methyl isobutyrate
@@ -5048,13 +4888,11 @@ methyl isocyanate
 methylisocyanate
 methyl isocyanide
 methylisocyanide
-Methyl isocyanide
 methyl isonitrile
 methyl isothiocyanate
 methylium
 methyl ketone
 methylketone
-Methyl ketone
 methyl linoleate
 methyllithium
 methyl l-phenylalaninate
@@ -5067,7 +4905,6 @@ methylmercaptan
 methylmercury
 methyl methacrylate
 methylmethacrylate
-Methyl methacrylate
 methylmethane
 methyl methanesulfonate
 methylmethanesulfonate
@@ -5075,7 +4912,6 @@ methyl methanoate
 methyl methoxyacetate
 methyl nonanoate
 methylnonanoate
-Methyl nonanoate
 methyl oleate
 methyloxirane
 methyl palmitate
@@ -5085,7 +4921,6 @@ methyl peroxide
 methyl phenyl ketone
 methyl phosphate
 methylphosphate
-Methyl Phosphate
 methylphosphine
 methyl phosphonate
 methyl-phosphonate
@@ -5093,14 +4928,11 @@ methylphosphonate
 methyl phosphonic acid
 methyl-phosphonic acid
 methylphosphonic acid
-Methyl phosphonic acid
-Methylphosphonic acid
 methyl p-hydroxybenzoate
 methyl propyl ketone
 methyl pyruvate
 methyl salicylate
 methylsalicylate
-Methyl salicylate
 methyl selenide
 methylselenium
 methyl stearate
@@ -5113,12 +4945,10 @@ methylsulfonic acid
 methylsulfonylmethane
 methyl t-butyl ether
 methyl tert-butyl ether
+Methyl tert-butylether
 methyl tertbutyl ether
 methyl-tert-butyl ether
 methyl-tert-butylether
-Methyl tert-butyl ether
-Methyl tert-butylether
-Methyl tert-Butyl Ether
 methyl tertiary butyl ether
 methyl tertiary-butyl ether
 methyltetrahydrofolate
@@ -5135,7 +4965,6 @@ methylvaline
 methyl vanillate
 methyl vinyl ketone
 methylvinylketone
-Methyl vinyl ketone
 methylxanthine
 methylzinc
 mevalonate
@@ -5151,8 +4980,6 @@ molecular oxygen
 molybdenum
 molybdenum disulfide
 molybdenum-disulfide
-Molybdenum disulfide
-Molybdenum-Disulfide
 molybdenum hexafluoride
 molybdenum oxide
 molybdenum pentachloride
@@ -5235,7 +5062,6 @@ n-butanol
 n-butyl acetate
 n-butyl acrylate
 n-butylacrylate
-n-Butyl acrylate
 n-butyl alcohol
 n-butylamine
 n-butylbenzene
@@ -5312,7 +5138,6 @@ nitrogen-hydride
 nitrogen monoxide
 nitrogen oxide
 nitrogen-oxide
-Nitrogen oxide
 Nitrogen trifluoride
 nitroglycerin
 nitromethane
@@ -5434,10 +5259,6 @@ oleamide
 oleate
 oleic acid
 oleic-acid
-Oleic acid
-Oleic-acid
-Oleic Acid
-Oleic-Acid
 oleic acid methyl ester
 oleyl alcohol
 oleylalcohol
@@ -5661,7 +5482,6 @@ p-fluorobenzoate
 p-fluorobenzoic acid
 phenacyl bromide
 phenacylbromide
-Phenacyl bromide
 phenalene
 phenanthren
 phenanthren-3-ol
@@ -5698,8 +5518,6 @@ phenylacetaldoxime
 phenylacetamide
 phenyl acetate
 phenylacetate
-phenyl Acetate
-Phenylacetate
 phenylacetic acid
 phenylacetone
 phenylacetonitrile
@@ -5721,9 +5539,6 @@ phenylbenzene
 phenyl boronic acid
 phenyl-boronic acid
 phenylboronic acid
-Phenyl boronic acid
-Phenylboronic Acid
-Phenyl Boronic Acid
 phenyl bromide
 phenylbromide
 phenylcarbinol
@@ -5734,7 +5549,6 @@ phenylenediamine
 phenylethane
 phenyl ether
 phenyl-ether
-Phenyl Ether
 phenylethyl alcohol
 phenylethylamine
 phenylethylene
@@ -5750,12 +5564,10 @@ phenylhydrazine
 phenylhydroxylamine
 phenyl isocyanate
 phenylisocyanate
-Phenyl Isocyanate
 phenyl isocyanide
 phenylisocyanide
 phenyl isothiocyanate
 phenylisothiocyanate
-Phenyl isothiocyanate
 phenyllithium
 phenylmagnesium bromide
 phenylmagnesium chloride
@@ -5768,7 +5580,6 @@ Phenylmethanesulfonylfluoride
 phenylmethanol
 phenylmethylsulfonyl fluoride
 phenylmethylsulfonylfluoride
-Phenylmethylsulfonyl fluoride
 phenyl oxirane
 phenyloxirane
 phenyl phosphate
@@ -5793,7 +5604,6 @@ phosphinate
 phosphine
 phosphine oxide
 phosphine-oxide
-Phosphine oxide
 phosphinic acid
 phosphinous acid
 phosphite
@@ -5805,7 +5615,6 @@ phosphole
 phosphonate
 phosphonic acid
 phosphonic-acid
-phosphonic Acid
 phosphonic acid diethyl ester
 phosphonic acid diethylester
 phosphonium
@@ -5821,7 +5630,6 @@ phosphoramidite
 phosphorane
 phosphoric acid
 phosphoric-acid
-Phosphoric acid
 phosphorothioic acid
 phosphorous acid
 phosphorus
@@ -5926,7 +5734,6 @@ p-nitrophenol
 p-nitrophenolate
 p-nitrophenyl acetate
 p-nitrophenylacetate
-p-Nitrophenyl acetate
 p-Nitrophenylalanine
 p-nitrophenylhydrazine
 p-nitrophenyl phosphate
@@ -5938,17 +5745,12 @@ poly(3-hexylthiophene-2,5-diyl)
 polybutylene
 poly(dimethylsiloxane)
 polydimethylsiloxane
-Poly(dimethylsiloxane)
-Polydimethylsiloxane
 poly(ethylene)
 polyethylene
-Poly(ethylene)
-Polyethylene
 polyethylene terephthalate
 polymethylene
 poly(oxyethylene)
 polyoxyethylene
-Poly(oxyethylene)
 polyoxymethylene
 polyoxypropylene
 poly(phenylene)
@@ -5964,8 +5766,6 @@ polypropylene
 polysiloxane
 poly(tetrafluoroethylene)
 polytetrafluoroethylene
-Poly(tetrafluoroethylene)
-Polytetrafluoroethylene
 porphine
 porphyrin
 potassium
@@ -5977,7 +5777,6 @@ potassium bromate
 potassium bromide
 potassium chloride
 potassium-chloride
-Potassium chloride
 potassium chromate
 potassium citrate
 Potassium citrate monohydrate
@@ -5987,7 +5786,6 @@ potassium dichromate
 potassium dihydrogen orthophosphate
 potassium dihydrogen phosphate
 potassium dihydrogenphosphate
-Potassium dihydrogen phosphate
 potassium ferricyanide
 potassium ferrocyanide
 potassium fluoride
@@ -5998,7 +5796,6 @@ potassium hydrogen carbonate
 potassium hydroxide
 potassium iodide
 potassium-iodide
-potassium Iodide
 potassium nitrate
 potassium phosphate
 potassium sorbate
@@ -6089,7 +5886,6 @@ propylenediamine
 propylene glycol
 propylene oxide
 propylene-oxide
-Propylene oxide
 propyl gallate
 propyl paraben
 propylparaben
@@ -6116,7 +5912,6 @@ p-tolualdehyde
 p-toluenesulfonamide
 p-toluene sulfonate
 p-toluenesulfonate
-p-Toluene sulfonate
 p-toluenesulfonic acid
 p-toluic acid
 p-toluidine
@@ -6244,7 +6039,6 @@ pyruvaldehyde
 pyruvate
 pyruvic acid
 pyruvic-acid
-Pyruvic acid
 pyrylium
 quercetin
 quinaldate
@@ -6285,7 +6079,6 @@ ribopyranose
 ribose
 ribose 5-phosphate
 ribose-5-phosphate
-Ribose 5-phosphate
 ribose phosphate
 ribose-phosphate
 ribulose
@@ -6350,13 +6143,11 @@ silicic acid
 silicon
 silicon dioxide
 silicon-dioxide
-Silicon dioxide
 silicon hydride
 silicon hydroxide
 silicon monoxide
 silicon oxide
 silicon-oxide
-Silicon oxide
 silole
 silver
 silver chloride
@@ -6364,22 +6155,15 @@ silver-chloride
 silverchloride
 silver nitrate
 silver-nitrate
-Silver nitrate
 silyl chloride
 silyl ether
 silyl-ether
 silylether
-Silyl ether
-Silylether
-Silyl Ether
 silylium
 sinapaldehyde
 sinapate
 sinapic acid
 sinapic-acid
-Sinapic acid
-Sinapic-acid
-Sinapic Acid
 sinapyl alcohol
 s-indacene
 skatole
@@ -6393,7 +6177,6 @@ sodium
 sodium 4-phenylbutyrate
 sodium acetate
 sodium-acetate
-Sodium acetate
 sodium acetate trihydrate
 sodium arsenate
 sodium arsenite
@@ -6412,7 +6195,6 @@ sodium carbonate decahydrate
 sodium chlorate
 sodium chloride
 sodium-chloride
-Sodium chloride
 sodium chlorite
 sodium chromate
 sodium citrate
@@ -6424,17 +6206,11 @@ sodium diethyldithiocarbamate
 sodium dihydrogen phosphate
 sodium dihydrogenphosphate
 sodium-dihydrogen phosphate
-Sodium dihydrogen phosphate
-Sodium dihydrogenphosphate
 sodium diphosphate
 sodium dithionite
 sodium dodecyl sulfate
 sodium dodecyl-sulfate
 sodium dodecylsulfate
-Sodium dodecyl sulfate
-Sodium dodecyl-sulfate
-Sodium dodecylsulfate
-Sodium Dodecyl Sulfate
 sodium dodecyl sulphate
 sodium ethanolate
 sodium ethoxide
@@ -6445,23 +6221,18 @@ sodium glutamate
 sodium hydrate
 sodium hydrogen carbonate
 sodium hydrogencarbonate
-Sodium hydrogen carbonate
 sodium hydrogen sulfite
 sodium hydrogensulfite
 sodium hydrosulfite
 sodium hydroxide
 sodium-hydroxide
-Sodium hydroxide
-Sodium-Hydroxide
 sodium hypochlorite
 sodium-hypochlorite
-Sodium hypochlorite
 sodium iodate
 sodium iodide
 sodium lactate
 sodium lauryl sulfate
 sodium laurylsulfate
-Sodium lauryl sulfate
 sodium lauryl sulphate
 sodium malonate
 sodium metaperiodate
@@ -6474,7 +6245,6 @@ sodium phenolate
 sodium phenoxide
 sodium phosphate
 sodium-phosphate
-sodium Phosphate
 sodium potassium tartrate
 sodium pyrophosphate
 sodium pyruvate
@@ -6482,10 +6252,8 @@ sodium salicylate
 sodium selenate
 sodium selenite
 sodium-selenite
-Sodium selenite
 sodium silicate
 sodium-silicate
-Sodium silicate
 sodium stibogluconate
 sodium sulfate
 sodium sulfate decahydrate
@@ -6513,8 +6281,6 @@ sphingosin
 sphingosine
 sphingosine 1-phosphate
 sphingosine-1-phosphate
-Sphingosine 1-phosphate
-Sphingosine-1-phosphate
 spirostan
 squalene
 stannane
@@ -6527,8 +6293,6 @@ stearamide
 stearate
 stearic acid
 stearic-acid
-Stearic acid
-Stearic-Acid
 stearidonic acid
 stearyl alcohol
 stearyl amine
@@ -6569,19 +6333,16 @@ sulfolane
 sulfonium
 sulfonyl chloride
 sulfonylchloride
-sulfonyl Chloride
 sulfonyl fluoride
 sulfonylurea
 sulfosalicylic acid
 sulfur
 sulfur dioxide
 Sulfurdioxide
-Sulfur Dioxide
 sulfur hexafluoride
 sulfur hydride
 sulfuric acid
 sulfuric-acid
-Sulfuric acid
 sulfuric diamide
 sulfur monoxide
 sulfurothioate
@@ -6645,8 +6406,6 @@ tert butyl hydroperoxide
 tert-butyl hydroperoxide
 tert-butyl-hydroperoxide
 tert-butylhydroperoxide
-tert-Butyl hydroperoxide
-tert-Butyl-hydroperoxide
 tert-butylhydroquinone
 tert-butyl methyl ether
 tert-butylmethyl ether
@@ -6686,8 +6445,6 @@ tetraethylammonium
 tetraethylammonium chloride
 tetraethylene glycol
 tetraethyleneglycol
-Tetraethylene glycol
-Tetraethyleneglycol
 tetraethylene glycol dimethyl ether
 tetraethylenepentamine
 tetraethylthiuram disulfide
@@ -6713,7 +6470,6 @@ tetramethylammonium
 tetramethylammonium bromide
 tetramethylammonium chloride
 tetramethylammoniumchloride
-Tetramethylammonium chloride
 tetramethylenediamine
 tetramethylene sulfone
 tetramethylthiuram disulfide
@@ -6822,14 +6578,11 @@ tin disulfide
 tin hydride
 tin oxide
 tin-oxide
-Tin oxide
 titanium
 titanium dioxide
 titanium-dioxide
-Titanium dioxide
 titanium oxide
 titanium-oxide
-Titanium oxide
 titanocene
 tolan
 tolane
@@ -6917,20 +6670,16 @@ triethyl borate
 triethylborate
 triethylene glycol
 triethyleneglycol
-Triethylene glycol
 triethylene glycol monomethyl ether
 triethyleneglycol monomethyl ether
-Triethylene glycol monomethyl ether
 triethylenetetraamine
 triethylenetetramine
 triethyl phosphate
 triethylphosphate
-Triethyl phosphate
 triethylphosphine
 triflate
 triflic acid
 triflic-acid
-Triflic Acid
 triflic anhydride
 trifluoroacetate
 trifluoroacetic acid
@@ -6962,7 +6711,6 @@ trimethylarsine
 trimethylarsine oxide
 trimethyl borate
 trimethylborate
-Trimethyl borate
 trimethyl-chlorosilane
 trimethylchlorosilane
 trimethylenediamine
@@ -6974,7 +6722,6 @@ trimethyl phosphate
 trimethylphosphine
 trimethylsilyl chloride
 trimethylsilylchloride
-Trimethylsilyl chloride
 trimethylstannane
 trimethylsulfonium
 trimethyltin
@@ -7007,7 +6754,6 @@ trisiloxane
 tris-n-propylamine
 trisodium citrate
 trisodium-citrate
-Trisodium citrate
 trisodium phosphate
 trithiocarbonate
 triuret
@@ -7030,7 +6776,6 @@ tyrosinate
 tyrosine
 tyrosine methyl ester
 tyrosine methylester
-Tyrosine Methyl Ester
 tyrosine phosphate
 undec-10-enoate
 undecan-2-ol
@@ -7048,7 +6793,6 @@ uranium oxide
 urea
 urea hydrogen peroxide
 urea-hydrogen peroxide
-Urea Hydrogen Peroxide
 urethane
 urethane dimethacrylate
 uric acid
@@ -7085,46 +6829,36 @@ veratrole
 vinylacetat
 vinyl acetate
 vinylacetate
-vinyl Acetate
 vinyl acetic acid
 vinylacetic acid
-Vinyl acetic acid
 vinylacetylene
 vinylbenzene
 vinyl benzoate
 vinylbenzoate
-Vinyl benzoate
 vinyl boronate
 vinylboronate
-Vinyl boronate
 vinyl bromide
 vinyl-bromide
 vinylbromide
-Vinyl bromide
 vinyl carbamate
 vinylcarbamate
-Vinyl carbamate
 vinyl carbinol
 vinyl chloride
 vinyl-chloride
-Vinyl Chloride
 vinyl cyanide
 vinylene
 vinyl ether
 vinylether
-Vinyl Ether
 vinyl fluoride
 vinylidene chloride
 vinylidene fluoride
 vinylidenefluoride
 vinyl iodide
 vinyliodide
-Vinyl iodide
 vinyllithium
 vinyl methyl ketone
 vinyl sulfone
 vinylsulfone
-Vinyl Sulfone
 vitamin c
 water
 xanthene
@@ -7151,12 +6885,8 @@ zinc chloride
 zinc dichloride
 zinc oxide
 zinc-oxide
-Zinc oxide
-Zinc-oxide
 zinc porphyrin
 zinc-porphyrin
-Zinc porphyrin
-Zinc-Porphyrin
 zinc sulfate
 zinc sulfate heptahydrate
 zingerone

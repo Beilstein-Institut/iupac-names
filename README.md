@@ -21,5 +21,5 @@ The list is sort and contains only unique names. On GNU/Linux, the reference alg
 process is:
 
 ```shell
-sort iupac-names.txt | uniq -i | tee tmp.txt | wc -l ; mv tmp.txt iupac-names.txt
+sort -f iupac-names.txt | uniq -i | tee tmp.txt | wc -l ; mv tmp.txt iupac-names.txt
 ```
