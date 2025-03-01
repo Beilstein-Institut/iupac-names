@@ -30,5 +30,5 @@ As an idea of the chemical space covered, we can check the number of unique InCh
 tautomerism normalization):
 
 ```
-groovy extractInChIKeys.groovy | uniq | wc -l
+groovy extractInChIKeys.groovy | sort | uniq | wc -l
 ```
