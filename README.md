@@ -23,3 +23,12 @@ process is:
 ```shell
 sort -f iupac-names.txt | uniq -i | tee tmp.txt | wc -l ; mv tmp.txt iupac-names.txt
 ```
+
+## Calculating unique InChIKeys
+
+As an idea of the chemical space covered, we can check the number of unique InChIKeys (mind the
+tautomerism normalization):
+
+```
+groovy extractInChIKeys.groovy | uniq | wc -l
+```
