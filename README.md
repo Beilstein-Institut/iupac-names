@@ -24,11 +24,20 @@ process is:
 sort -f iupac-names.txt | uniq -i | tee tmp.txt | wc -l ; mv tmp.txt iupac-names.txt
 ```
 
+There are small name variants, like `1,1 Dimethylhydrazine` and `1,1-dimethylhydrazine`,
+of which it is not clear if they are typos in the articles, artifacts of the text mining,
+but we do know they parse into a SMILES. By removing all spaces and all hyphens, we can count
+the number of unique lower-case names with:
+
+```shell
+cat iupac-names.txt | sed 's/-//' | sed 's/\ //' | tr '[:upper:]' '[:lower:]' | sort | uniq | tee iupac-names-flat.txt | wc -l
+```
+
 ## Calculating unique InChIKeys
 
 As an idea of the chemical space covered, we can check the number of unique InChIKeys (mind the
 tautomerism normalization):
 
-```
-groovy extractInChIKeys.groovy | sort | uniq | wc -l
+```shell
+groovy extractInChIKeys.groovy | sort | uniq | tee inchikeys.txt | wc -l
 ```
