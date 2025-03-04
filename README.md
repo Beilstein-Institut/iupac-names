@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14965761.svg)](https://doi.org/10.5281/zenodo.14965761)
+
 # iupac-names
 
 Project that collects all possible used [IUPAC names](https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_chemistry)
