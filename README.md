@@ -32,7 +32,7 @@ but we do know they parse into a SMILES. By removing all spaces and all hyphens,
 the number of unique lower-case names with:
 
 ```shell
-cat iupac-names.txt | sed 's/-//' | sed 's/\ //' | tr '[:upper:]' '[:lower:]' | sort | uniq | tee iupac-names-flat.txt | wc -l
+cat iupac-names.txt | sed 's/[--‐]//g' | sed 's/\ //' | tr '[:upper:]' '[:lower:]' | sort | uniq | tee iupac-names-flat.txt | wc -l
 ```
 
 ## Calculating unique InChIKeys
