@@ -23,7 +23,7 @@ The list is sort and contains only unique names. On GNU/Linux, the reference alg
 process is:
 
 ```shell
-csvtool -u TAB -t TAB col 3 ~/Downloads/chemicals.tsv | sort | uniq >> iupac-names.txt
+csvtool -u TAB -t TAB col 3 ~/Downloads/chemicals.tsv | tail -n +2 | sort | uniq >> iupac-names.txt
 sort -f iupac-names.txt | uniq -i | tee tmp.txt | wc -l ; mv tmp.txt iupac-names.txt
 ```
 
