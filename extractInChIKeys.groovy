@@ -17,9 +17,11 @@ pubchem = new net.bioclipse.managers.PubChemManager(workspaceRoot);
 opsin = new net.bioclipse.managers.OpsinManager(workspaceRoot);
 
 new File("iupac-names.txt").eachLine { name ->
-  mol = opsin.parseIUPACName(name)
-  try {
-    inchikey = inchi.generate(mol).key
-    println inchikey
-  } catch (Exception e) {}
+  if (name != "Chemicals_exact") {
+    mol = opsin.parseIUPACName(name)
+    try {
+      inchikey = inchi.generate(mol).key
+      println inchikey
+    } catch (Exception e) {}
+  }
 }
