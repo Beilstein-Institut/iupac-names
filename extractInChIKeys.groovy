@@ -16,6 +16,10 @@ rdf = new net.bioclipse.managers.RDFManager(workspaceRoot);
 pubchem = new net.bioclipse.managers.PubChemManager(workspaceRoot);
 opsin = new net.bioclipse.managers.OpsinManager(workspaceRoot);
 
+filename = "iupac-names.txt"
+
+if (args.length > 0) filename = args[0]
+
 new File("iupac-names.txt").eachLine { name ->
   if (name != "Chemicals_exact") {
     try {
