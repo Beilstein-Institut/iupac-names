@@ -13,7 +13,7 @@ IUPAC name exists is the copyright-free fact we are recording here.
 Our ambition is to have 1M IUPAC names within the first year.
 
 This repository is very simple, consists of a single, sorted list of IUPAC names in the `iupac-names.txt` file.
-Each line in that file is a valid IUPAC names, as defined by [OPSIN](https://opsin.ch.cam.ac.uk/)
+Each line in that file is a valid IUPAC names, as defined by [OPSIN](https://doi.org/10.1021/ci100384d)
 being able to generate a [SMILES](https://en.wikipedia.org/wiki/Simplified_Molecular_Input_Line_Entry_System)
 string from it.
 
